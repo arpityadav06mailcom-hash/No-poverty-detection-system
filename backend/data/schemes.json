@@ -1,0 +1,39 @@
+[
+  {
+    "id":"CS-001",
+    "level":"Central",
+    "name":"PM Jan Dhan Yojana",
+    "description":"Financial inclusion scheme providing access to basic banking services.",
+    "eligibility":"Eligible citizens meeting the scheme requirements.",
+    "benefits":"Basic banking access and related financial inclusion benefits.",
+    "link":"https://www.pmjdy.gov.in/"
+  },
+  {
+    "id":"CS-002",
+    "level":"Central",
+    "name":"Pradhan Mantri Ujjwala Yojana",
+    "description":"Scheme supporting eligible households with LPG connections.",
+    "eligibility":"Eligible households as defined by the current scheme guidelines.",
+    "benefits":"LPG connection support and applicable assistance.",
+    "link":"https://www.pmuy.gov.in/"
+  },
+  {
+    "id":"CS-003",
+    "level":"Central",
+    "name":"PM-KISAN",
+    "description":"Income support scheme for eligible landholding farmer families.",
+    "eligibility":"Eligible farmer families under current PM-KISAN rules.",
+    "benefits":"Financial support subject to scheme rules.",
+    "link":"https://pmkisan.gov.in/"
+  },
+  {
+    "id":"UP-001",
+    "level":"State",
+    "state":"Uttar Pradesh",
+    "name":"Uttar Pradesh Scholarship & Fee Reimbursement",
+    "description":"State portal for eligible students to apply for scholarship and fee reimbursement schemes.",
+    "eligibility":"Eligibility depends on the applicable scholarship category and current state rules.",
+    "benefits":"Scholarship or fee reimbursement as applicable.",
+    "link":"https://scholarship.up.gov.in/"
+  }
+]

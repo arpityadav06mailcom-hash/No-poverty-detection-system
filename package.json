@@ -1,0 +1,13 @@
+{
+  "name":"npds-complete-project",
+  "version":"2.0.0",
+  "description":"No Poverty Detection System - College Project",
+  "main":"backend/server.js",
+  "scripts":{"start":"node backend/server.js","dev":"node backend/server.js"},
+  "dependencies":{
+    "cors":"^2.8.5",
+    "express":"^4.21.2",
+    "express-session":"^1.18.1",
+    "multer":"^1.4.5-lts.1"
+  }
+}
